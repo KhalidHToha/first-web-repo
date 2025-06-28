@@ -6,4 +6,8 @@ div {
   color: rgb(0, 0, 0);
   background-color: tomato;
   margin: 10px;
+  padding: 20px;
+}
+ol {
+  padding-left: 20px;
 }
